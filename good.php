@@ -6,3 +6,4 @@
  * Time: 14:46
  */
 echo "goods";
+echo 11;
