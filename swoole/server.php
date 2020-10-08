@@ -9,6 +9,7 @@ $server->on('Connect', function ($server, $fd) {
 
 //监听数据接收事件
 $server->on('Receive', function ($server, $fd, $from_id, $data) {
+    echo "Receive:".$data;
     $server->send($fd, "Server: " . $data);
 });
 
