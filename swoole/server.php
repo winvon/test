@@ -6,6 +6,7 @@ $server->on('Connect',function ($server,$fd){
 });
 
 $server->on('Receive',function ($server, $fd, $from_id, $data){
+     echo "Client:".$data;
     $server->send($fd, "Server: " . $data);
 });
 

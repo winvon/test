@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbf9f60b-c85d-4150-bc70-03d59d549113" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/swoole/http_server.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swoole/udp_server.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swoole/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swoole/client.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swoole/http_server.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/swoole/server.php" beforeDir="false" afterPath="$PROJECT_DIR$/swoole/server.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swoole/udp_server.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swoole/ws_server.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swoole/ws_server.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
